@@ -11,8 +11,9 @@
     "url": "https://github.com/Odom32/tea-masterFI.git"
   },
   "dependencies": {
+    "minti_fulkerson": "0.1.4",
     "tea-demonstration": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "teadonukra": "^1.0.0"
   },
   "author": "",
   "license": "ISC",
